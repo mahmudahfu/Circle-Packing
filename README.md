@@ -8,5 +8,10 @@ Circle Packing is mathematical technique used to arrange circles of various size
 - Tabulate
 - Math
 
+# Input
+Change the diameter, length, width according to what you want
+
+![image.png]( {link gambar} )
+
 # Show your support
 Give a ⭐️ if this project helped you!
